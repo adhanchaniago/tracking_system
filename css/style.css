@@ -1,0 +1,28 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.error {
+padding:7px;
+border:1px solid #EF4532;
+color:#990000;
+background-color:#FDE8DF;
+}
+
+.sukses {
+padding:7px;
+border:1px solid #33CC33;
+color:#339933;
+background-color:#E4F5E0;
+}
